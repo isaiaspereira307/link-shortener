@@ -1,0 +1,20 @@
+{
+  "links": {
+    "afbe41a4-397c-4362-9e4d-4951010ec6ae": {
+      "id": "afbe41a4-397c-4362-9e4d-4951010ec6ae",
+      "short_code": "v5YEcIJH",
+      "original_url": "https://rust-lang.org/",
+      "clicks": 0,
+      "created_at": "2026-03-18T17:05:38.483741",
+      "expires_at": null
+    },
+    "0f570345-1820-4192-a265-742389b2cebf": {
+      "id": "0f570345-1820-4192-a265-742389b2cebf",
+      "short_code": "voxsANDq",
+      "original_url": "https://go.dev/",
+      "clicks": 1,
+      "created_at": "2026-03-18T17:08:03.682736",
+      "expires_at": null
+    }
+  }
+}
